@@ -16,7 +16,7 @@ public class FoodItemDTO {
     private String itemName;
     private String itemDescription;
     private boolean veg;
-    private Integer price;
-    private Integer restaurantId;
-    private Integer quantity;
+    private int price;
+    private int restaurantId;
+    private int quantity;
 }
